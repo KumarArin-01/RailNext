@@ -6,3 +6,6 @@ That’s where **RailNext** comes in. Instead of just tracking current location,
 European AI systems like in Switzerland (SBB) or Netherlands (NS) work great on their networks, but only because their tracks are hyper-disciplined and passenger-only. They struggle with Indian Railway real-world conditions. RailNext improves on these models by using Graph Neural Networks specifically tuned for our ground reality—mixed traffic (slow freight rakes sharing tracks with express trains), unreserved compartment boarding rushes, and heavy North Indian winter fog.
 
 In short, RailNext gives passengers reliable ETAs on their phones and station displays, while equipping control rooms with predictive delay heatmaps to clear traffic bottlenecks before they turn into a mess.
+
+
+https://railnext.vercel.app/
